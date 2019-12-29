@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicketApp</string>
+    <string name="logo_placeholder">logo_placeholder</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="login_button_text">Login</string>
+    <string name="sign_up_button_text">Sign up</string>
+    <string name="email">email</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="search_event">search event...</string>
+    <string name="my_tickets">My tickets</string>
+    <string name="logout">Logout</string>
+    <string name="event_date">WED 18 DEC 2019</string>
+</resources>
